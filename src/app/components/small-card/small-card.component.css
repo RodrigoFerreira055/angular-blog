@@ -15,12 +15,13 @@
   margin-right: 20px;
 }
 
-.small-card__title {
+.small-card__title,
+.small-card__photo {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .container__small-card__separator {
-  margin-top: 10px;
+  margin: 10px 0 10px 0;
 }
